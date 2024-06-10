@@ -1,1 +1,1 @@
-# RL-Intrinsic-Rewards
+# Reinforcement-Learning-Intrinsic-Rewards
